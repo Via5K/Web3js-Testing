@@ -1,0 +1,1 @@
+to create a server, use ```node app.js``` OR ```python -m http.server``` this will start the server on port 8000
